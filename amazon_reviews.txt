@@ -1,0 +1,255 @@
+From the United States
+	Amy M.
+1.0 out of 5 stars Stopped working in 1st year & no support from Netgear
+Reviewed in the United States on June 15, 2017
+Verified Purchase
+After about 9 months of light use, the 2.4g channel has stopped working on all devices (5g works fine). I called Netgear technical support and they only offer complimentary support on this product for 90 days, after which they want you to pay for support. I researched this issue online and found several posts with the same problem. I have done a factory reset, firmware update and confirmed the settings are correct. Netgear does offer a 1-year warranty but they require a return authorization number, which can only be obtained through technical support, which requires a paid subscription. This doesn't seem ethical. I would avoid this product and given the warranty/technical support catch 22, I will certainly be considering other manufacturers for future purchases.
+1,279 people found this helpful
+Helpful
+18 comments Report abuse
+	josh hockman
+1.0 out of 5 stars This actually SLOWS your traffic!!!!
+Reviewed in the United States on August 4, 2018
+Verified Purchase
+I bought this to increase the wifi signal (which is very weak, resulting in relatively slower DL's) for the second story of my home, because I read things like, "FASTER WIFI SPEEDS - Combined speeds up to 750 Mbps", and, "Mobile Up to 100% Faster Improve your mobile WiFi speeds by up to 100% with AC750 WiFi Range Extender!", - both are direct copy pastes from the Amazon sales page..... Unfortunately, on page 7 of the user manual, you find this gem: "Data traffic routed through the extender is inherently slower than traffic routed directly from the network."
+
+Speed test results (with Gigabit internet service):
+
+Regular WiFi: 279M down; 41M up.
+2G extender: 156M down; 42M up.
+5G extender: 122M down, 41M up.
+
+The range extender has a much stronger signal, but is close to half the speed!
+
+Total waste of money.
+347 people found this helpful
+Helpful
+13 comments Report abuse
+	DEdwards
+1.0 out of 5 stars Nightmare to set up and impossible to decipher instruction manual
+Reviewed in the United States on March 28, 2018
+Verified Purchase
+No stars. Returned it. Massive PIA to try to decipher the tech argot of the directions and it didn't work anyway. I bought it to extend the range of my router's wifi signal for an outdoor camera. Even after all the irritation involved with getting it paired to the house wifi and then plugging the extender into an outlet closer to the camera, it had zero impact on the camera's signal. The location receives a strong 4-bar signal from the router, too. There's no phone number to call for help with the setup unless you register the product first. The website you have to go to for the setup process doesn't even bother to tell you up front, where it might be helpful, that you won't ever see the setup assistant until you access Netgear's web pages through the extender's wifi, not your home router's wifi. The website has links for setting up with a PC or Mac, but the one for Macs doesn't work--the page never loads. Well, not until you've accidentally come across that information, on a completely different page that you found while looking for set-up help, that you have to access NetGear's pages through the extender's wifi signal, not the wifi from your own router.
+
+
+
+ike a log-in setup option, or a flashing neon sign that says "setup complete" or any information on the status of the device you think you maybe might have possibly just set up. Nothing. Here's our web page. Enjoy this total lack of feedback about what you were just trying to accomplish and whether it worked or not.
+
+	William A. Cook
+2.0 out of 5 stars Small apartment, didn’t solve anything.
+Reviewed in the United States on January 29, 2018
+Verified Purchase
+REVIEW:
+I tried this and was disappointed.
+I live in an 1100 sq. Ft. apartment with a fairly average layout. Master bedroom down a short hall from the living room which has an office nook where the modem and router live along with the personal computing equipment.
+I have an Apple AirPort Extreme bade station that I use as a router for all my wireless devices, which is setup on bridge mode and plugs into my arris modem from Charter m, as I am a subscriber to their Spectrum service.
+My AirPort Extreme does fairly well throughout the majority of the apartment, but due to the layout of the walls, going into the master suite causes the WiFi signal to rapidly fade as you approach the back wall, which is a straight shot from the door, no more than 13 far away.
+I purchased this WiFi range extender in hopes of curing this problem. I was sorely disappointed. If my phone or tablet (or the wife’s) managed to actually connect to the extension network, it was slow and spotty at best, often times seeing no actual improvement over the main network.
+Using a WiFi mapping app only revealed what I suspected: the WiFi was being broadcast strongly enough measuring in dB, but my phone didn’t operate as if this was the case. In most areas where it showed my devices as having a strong signal, the download speed was still drastically below the “up to” speed, and noticeably slower than the normal speed I gauged on speed test sites.
+I promptly returned this device as it did not solve any of the issues I had, and even created more as when I would be in the living room near the aI report router, I would still be connected (with a strong signal, no less) to the Netgear network, with little to no actual internet connection. The hassle of having to go into settings and manually disconnect and reconnect to the different networks was not worth the $43 I paid on amazon after taxes.
+review imagereview imagereview imagereview image
+10 people found this helpful
+Helpful
+2 comments Report abuse
+	mic
+3.0 out of 5 stars I wrote a novel describing my experience with this torture device, a short novel by me (an idiot)
+Reviewed in the United States on April 29, 2020
+Verified Purchase
+Context: I live in an apartment with a built in router, but it is located in a closet and that means I have terrible WiFi connection in my room on the opposite side of my apartment. That is why I bought this. I’m beginning to regret it. This is my horror story.
+
+Access Point Setup: The directions state that after you plug this into an outlet, wait for the green light, and plug the Ethernet cable into a LAN port and it will automatically create a new WiFi hotspot to set up. Easy enough! I plug it in and wait. The WiFi hotspot never sets itself up. The router indicator never lights up. Instructions already unclear on STEP TWO. Trying to connect to their mywifiext router website never works. What a disappointment - but there is another way, as the prophecy foretells.
+
+(Also a nitpick, the instructions say to plug in the Ethernet cable after the power indicator goes from red to green. You wait 10 seconds once it’s on, not a big deal right? Well the on-off button is on the opposite side of the Ethernet port, so if you are an idiot (read: me), you will press this button by accident several times trying to plug the Ethernet in, meaning you gotta wait for that stupid indicator to go green each time you make this mistake. Torture device. )
+
+Extended mode setup: Okay so the Access Point setup is confusing, maybe this set of instructions will be easier. (Spoiler: no)
+
+Press the WPS button and run to your router and do the same there. If it doesn’t work (which it won’t the first few times), try and try again. And don’t forget to not accidentally press the on off button which is right next to the damn WPS button on this extender (designed to be a torture device). After traveling between the router and your extender for what feels like a mile run that I haven’t done since college, the router indicator should finally show green.
+
+By now the device should work in -extender mode- but you realize that it’s not any better than connecting directly to your WiFi in your room. No, you want what you -paid- for, you are an over achiever, you want that failed access point set up to work and you deserve it. So let’s try that again.
+
+Access Point Set Up *Part Two: Return of the Sith*: So let’s type in that mywifiext website that the instructions say and try again. Will the website work? Of course not, dummy (read:me), you can’t use chrome for this, you need to be in safari. I’m glad the instructions totally fail to mention this so your cave man oogah boogah brain will keep trying in chrome expecting a different result each time.
+
+Once the website works in Safari, the website will show a big purple button saying “New Extender Mode” - No! Why isn’t there a big fat purple button saying New Access Point? Fine, have it your way. Let’s press it. It forces you to create a new account and some privacy questions. Great, another data breach target. Let’s fill that out. It tells you the extender is successfully set up. Wonderful! Except I still want the access point setup! Clicking next will direct you to the net gear website. Not so fast. Let’s go back and see what the WiFi extender website looks like and see if there is something we can do about that access point.
+
+Now, my instincts tell me to update the device firmware. Don’t listen to my instincts, you already know I’m an idiot. When you download the firmware, and begin to set the router up, chances are the download and installation will take longer than 5 minutes to install. And you know what happens when you idle on the router webpage for 5 minutes? YOU DISCONNECT DURING THE FIRMWARE UPDATE. IT BRICKS YOUR WIFI EXTENDER YOU SPENT YOUR WHOLE NIGHT SETTING UP. Ahem. So you repeat most of the steps from the very beginning and reach this point, and this time do not update the firmware. I mean you can, if you don’t idle - but I believe I have PTSD now and I don’t dare to try lest I be abused by this device and it’s poor instructions again.
+
+The Extender webpage does not show any tabs or options to set up the Access Point at this point, by the way.
+
+So if you know how to set up the Access Point, please bless me with your infinite wisdom because I am not smarter than a fifth grader, apparently.
+
+I hope my review helped you make a decision on what device to buy. If I could travel time, I’d go back and stop myself from trying to install this and yeet it out the window. Or just tell myself to buy a different device entirely.
+
+3/5 because it -works-, just not as easily as I hoped.
+4 people found this helpful
+Helpful
+1 comment Report abuse
+	gringo4ninja
+3.0 out of 5 stars 1000 sq ft is a bit too... optimistic for this booster
+Reviewed in the United States on January 26, 2020
+Verified Purchase
+The good then the bad. I’m generally pleased with my purchase. Simple to install. Signal is marginally better upstairs than it was before installing the booster. However, this unit has a VERY weak signal. Speed drops dramatically unless you have clear line of sight to the booster. For example, closing a hollow wooden door is enough to cut the signal by more than half. I purchased this device for my upstairs which is comprised of multiple bedrooms and about 800 sq ft. This unit advertised coverage of 1000 sq ft, so good to go, right? The fact that any common domestic obstruction strangles the signal so significantly makes me wish I had purchased a more powerful booster.
+5 people found this helpful
+Helpful
+Comment Report abuse
+	Amazon Customer
+3.0 out of 5 stars Best bang for your buck.... Maybe not!!!!
+Reviewed in the United States on August 8, 2018
+Verified Purchase
+This product over all is excellent.
+
+Hardware - The product is well made has a small footprint. It would have been nice if the Antennas were removable as so add larger ones, but at this price point it was not expected.
+
+Software - I am not a lover of WPS setup so I used my laptop and the WiFi setup instead. Very easy and well thought out. Probably the easiest interface I have ever used.
+
+Price - This is the cheapest / most affordable unit that supports both 2.4G & 5.0G WiFi at both ends and manages the data remarkable well.
+
+Final Thoughts - Unless you have a 4000+ square foot home buy it. I can not attest to the reliability over time of the product yet but so far this unit is a no brainer. Please ovoid the cheaper sub $30 units you will not be happy.
+
+After a few Weeks..... I hate to say it but I am sending it back. The unit is not stable at all. I end up having to reset it at least 5-7 times a week meaning I have to unplug and plug it back in. Not good.
+6 people found this helpful
+Helpful
+Comment Report abuse
+	Robert J.
+1.0 out of 5 stars Garbage. Absolutely Pointless.
+Reviewed in the United States on June 14, 2019
+Verified Purchase
+I have a background in IT Networking and haven't used a WiFi extender in years so I figured I'd give this a shot. Bad decision.
+1.) This is not so much as a WiFi extender, but a repeater. It uses the EXACT SAME CHANNEL as the main WiFi router. This means it INTERFERES with your original signal. For any access point, you should always use a different channel so you don't get interference. Not possible.
+2.) In an area with poor signal from my standard issue FiOS router (about 15mbps on a 200mbps connection), I thought this would really help out. I plugged the device in half way between the two areas. Keep in mind, half way is literally 20 feet away with no walls. I connect to this device, and the speed is 10mpbs. That's right, it's SLOWER than not using it at all.
+3.) I figured I would put this in access point mode as a last ditch effort. Plugged into the router and broadcasting it's own wifi signal. Standing next to the router and the device: Main WiFi signal from Router--200mbps, Speed from this device (which is hardwired to the router)--13mbps.
+4.) This device literally does not work. Don't waste your money or be enticed by a $5 off for Prime Members coupon.
+6 people found this helpful
+Helpful
+Comment Report abuse
+	EdCaffreyMS
+1.0 out of 5 stars Nothing good to say about this device
+Reviewed in the United States on September 25, 2018
+Verified Purchase
+I purchase this to replace an older netgear wifi extender. This thing is simply quirky. Setup for me was a major pain, because it will not connect via WPS, nor could I log into the device via the URL given in the instructions. The only way to get it setup was to connect my Iphone to it, and use the iphone as the setup device. My first action after setup was to change to a static IP, so I could log in via the net..... at least that works.
+
+Here's the kicker..... After setup, IF a device is not connect to this extender at all times, it reverts to factory defaults, and forces you to go through the setup before a device can be connected! Yes, you read that right. At first I thought it was a glitch, but EVERY time there has not been a device connected to the extender.... as soon as I attempt to connect a device, it goes back to factory default settings, and requires me to run setup... EVERY TIME!
+You don't dare call Netgear support.....they will withhold the information you need until you agree to pay a fee for it! I've been down that road several time in the past, and they give you just enough free information, to make you think you're being helped.....then hit you with the demand of a fee (they,ve quoted me as much as $250 for a single support call, then wanted me to grant them access to my computer) before they actually help you fix a situation.
+Finally, when it is in use, this thing gets HOT! Hot enough to smell, and I would suspect hot enough to possibly cause a fire were it placed behind a curtain, drape, or other fabric. This thing is getting returned, and I'll search elsewhere for a wifi extender.
+6 people found this helpful
+Helpful
+Comment Report abuse
+	B. Lee
+1.0 out of 5 stars Drop connection, takes long time, unreliable
+Reviewed in the United States on October 6, 2018
+Verified Purchase
+I was hoping this would solve my Fire TV's occasional issues with connection. Fire TV is probably the device farthest from main router. Setup (through web browser) was simple enough. Moved to the outlet next to my Fire TV, and tested on my laptop. Does NOT work the first time, after several tries and wifi resets on my laptop, it seemed to be working. Tried to connect my Fire TV to it, same thing, does not work the first time (obtaining IP address... then times out several times). After several tries, Finally succeeded in obtaining ip address and it seemed to be working. Tried streaming, fine for about 50 mins then started freezing. Restarted streaming and same thing happens in a couple of minutes.
+
+I've tried wireless repeaters long time ago and found them unreliable. After all these years I was hoping technology has improved to make it usable by now, but I guess not. Returning.
+
+Reviewed in the United States on June 15, 2017
+Verified Purchase
+After about 9 months of light use, the 2.4g channel has stopped working on all devices (5g works fine). I called Netgear technical support and they only offer complimentary support on this product for 90 days, after which they want you to pay for support. I researched this issue online and found several posts with the same problem. I have done a factory reset, firmware update and confirmed the settings are correct. Netgear does offer a 1-year warranty but they require a return authorization number, which can only be obtained through technical support, which requires a paid subscription. This doesn't seem ethical. I would avoid this product and given the warranty/technical support catch 22, I will certainly be considering other manufacturers for future purchases.
+1,279 people found this helpful
+Helpful
+18 comments Report abuse
+	josh hockman
+1.0 out of 5 stars This actually SLOWS your traffic!!!!
+Reviewed in the United States on August 4, 2018
+Verified Purchase
+I bought this to increase the wifi signal (which is very weak, resulting in relatively slower DL's) for the second story of my home, because I read things like, "FASTER WIFI SPEEDS - Combined speeds up to 750 Mbps", and, "Mobile Up to 100% Faster Improve your mobile WiFi speeds by up to 100% with AC750 WiFi Range Extender!", - both are direct copy pastes from the Amazon sales page..... Unfortunately, on page 7 of the user manual, you find this gem: "Data traffic routed through the extender is inherently slower than traffic routed directly from the network."
+
+Speed test results (with Gigabit internet service):
+
+Regular WiFi: 279M down; 41M up.
+2G extender: 156M down; 42M up.
+5G extender: 122M down, 41M up.
+
+The range extender has a much stronger signal, but is close to half the speed!
+
+Total waste of money.
+347 people found this helpful
+Helpful
+13 comments Report abuse
+	DEdwards
+1.0 out of 5 stars Nightmare to set up and impossible to decipher instruction manual
+Reviewed in the United States on March 28, 2018
+Verified Purchase
+No stars. Returned it. Massive PIA to try to decipher the tech argot of the directions and it didn't work anyway. I bought it to extend the range of my router's wifi signal for an outdoor camera. Even after all the irritation involved with getting it paired to the house wifi and then plugging the extender into an outlet closer to the camera, it had zero impact on the camera's signal. The location receives a strong 4-bar signal from the router, too. There's no phone number to call for help with the setup unless you register the product first. The website you have to go to for the setup process doesn't even bother to tell you up front, where it might be helpful, that you won't ever see the setup assistant until you access Netgear's web pages through the extender's wifi, not your home router's wifi. The website has links for setting up with a PC or Mac, but the one for Macs doesn't work--the page never loads. Well, not until you've accidentally come across that information, on a completely different page that you found while looking for set-up help, that you have to access NetGear's pages through the extender's wifi signal, not the wifi from your own router.
+
+If you finally get to the setup assistant you will be asked questions you have no clue how to answer because they're all in tech-speak. Why is it necessary to call a password a "network key"? Why don't you just say "password"? "Make sure your computer is set up to use DHCP". Really. I'll get right on that. I've been using personal computers for 30 years and have never seen the term "DHCP" and have no idea how to check that my computer is set up to use it, but since you bring it up, why don't you tell me how to "make sure" of that? Worthless. The whole instruction guide is like that and the setup assistant is worse by far. And hey, did you know that "WPS does not support WEP network security"? Who cares, if you don't know what either of those things are and if they don't tell you how to determine which your wifi has? The manual will tell you things like, "Click the Next button and the status screen displays". Wrong. Like a lot of the other steps. You know what happens when you click Next? The setup assistant completely vanishes and you end up back on NetGear's main web page. You are not offered something logical for the next step in the process, like a log-in setup option, or a flashing neon sign that says "setup complete" or any information on the status of the device you think you maybe might have possibly just set up. Nothing. Here's our web page. Enjoy this total lack of feedback about what you were just trying to accomplish and whether it worked or not.
+
+No idea whether their phone tech support is any good or not because I put the device back in the box and printed a return label, but phone support is good for only 90 days anyway. Besides, you have to register the product first--so they can have your personal information and probably put you on 20,000 mailing lists for spam--before they'll give you access to the super-duper-secret-classified help line number. Never trust a company that won't give you free phone setup help in its instruction manual.
+168 people found this helpful
+Helpful
+9 comments Report abuse
+	Sandy S.
+1.0 out of 5 stars Cant deliver high bandwidth
+Reviewed in the United States on September 30, 2017
+Verified Purchase
+Bought after seeing the thousands of good reviews. I get 100Mbps download/5Mbps upload from my internet provider, as proven using speed tests right next to the modem/router. I wanted an extender that I could conveniently place to catch the signal about 30ft from the modem/router and extend it 30-40 ft to the rooms upstairs. I verified that I was getting an 80-90Mbps signal from the modem/router right next to where I placed the extender. However, I found that upstairs, even after using the extender, I could never get a signal more than 15-20Mbps, with or without the extender. Eventually, I simply put the extender right next to the router, and finally found that even then(!!) I couldnt get more than 15-20Mbps, but without the extender I was getting an easy 80-90Mbps. This thing is just not built for high bandwidth, IMHO. If your requirement is similar, hopefully this review is useful to you. I'm probably going to end up with mesh wifi even though its more expensive.
+109 people found this helpful
+Helpful
+2 comments Report abuse
+	Mark Kenyon
+2.0 out of 5 stars 75% of the time, it works all the time
+Reviewed in the United States on October 29, 2018
+Verified Purchase
+I'm pretty good with electronics and computers, I'm a programmer. I've owned and used this for 5 months now. I have used this extender off of a Netgear R6250 router, and the initial setup using WPS works fine. It finds my network, sets up new SSIDs for the 2.4 and 5 Ghz bands, and works fine. For a couple months.
+Then suddenly it stops working. The lights say it's on, you can see the SSID listed, but if you connect to it (I've tested with phones, tablets, and laptops) it will say, 'No Internet Connection', even though the Router LED is green.
+I've had to factory reset it to get it back up and running.
+The firmware is up to date. My router settings don't change, I don't move it, it just stops working. I don't have time to fuss with it over and over again. I have some smart home devices that don't automatically switch to the other SSIDs in the house, since this still reads as available, so they stop working. It's too much hassle to keep it running, so I'm pulling it out of use at my house.
+52 people found this helpful
+Helpful
+2 comments Report abuse
+	Baby Chick from Babychickistan
+1.0 out of 5 stars WILL NOT Rebroadcast 5Ghz. Only 2.4Ghz works under basic settup. FastLane Tech option does ONLY 2.4Ghz to 5Ghz or 5Ghz to 2.4Ghz
+Reviewed in the United States on April 7, 2018
+Verified Purchase
+This is such a crappy product. First of all I have ASUS AC1900 router which broadcasts both 2.4Ghz and 5Ghz. I need to extend both of them. NETGEAR AC750 advertises that it can extend both of them under different SSID such as your "original_SSID_Ext". So under basic settings, it grabs both 2.4Ghz and 5Ghz from ASUS AC1900 and translates both 2.4Ghz and 5Ghz under different SSID which is fine, however only 2.4Ghz works and 5Ghz will say no internet connection on the extension networks. So, reading other comments I came to conclusion that it cannot translate both at the same time.
+Fine, screw 2.4Ghz since it's overcrowded anyways, let's try to extend 5Ghz only. Netgear has FastLane Technology option which broadcasts only one band, and it has two options: 1. catch 2.4Ghz band and rebroadcast as 5Ghz; 2. catch 5Ghz and rebroadcast as 2.4Ghz. THERE IS NO 5Ghz to 5Ghz rebroadcasting option meaning no matter what option you choose, your speeds are bottlenecked at 2.4Ghz! This is plain dumb. I don't know why on earth I need to rebroadcast 2.4Ghz as 5Ghz if it is bottlenecked at 2.4Ghz anyways when it travels from ASUS AC1900 to NETGEAR AC750.
+
+Conclusion, no matter what, it WILL NOT EXTEND 5Ghz network (grabbing 5Ghz and rebroadcasting 5Ghz)! I tried both original firmware and I tried resetting after upgrading to the latest firmware - product behaves the same way.
+
+Additionally, this NETGEAR AC750 has such a week signal. I am sitting on my laptop and iPhone right next to it and signal is worse than if I am connected to ASUS AC1900 which is in a different room across the wall. In other words the area where I want extend my wifi is covered better with my original router which defeats the purpose of this extender.
+
+Images are included
+review imagereview imagereview image
+43 people found this helpful
+Helpful
+Comment Report abuse
+	Kindle Customer
+1.0 out of 5 stars BEWARE Not a satisfactory purchase!
+Reviewed in the United States on October 5, 2018
+Verified Purchase
+I have 100mgbs wifi, however, the signal strength is not satisfactory throughout my apartment. I had hoped a range extender would correct this problem. I found a recommendation & link to a deal on a Netgear extender in one of my newsletters. The description, customer reviews & price seemed to indicate this model was a good choice. Arrived quickly & I was anxious to try it. After 2 hours of attempting a link by WPS setup, I called the recommended tech support. I admit I was unprepared for the following actions. The tech asked for remote access, & I allowed it, even though I was uncomfortable with the idea. My thoughts were, it was a reputable product so I could trust the support. The "quick & easy" call lasted almost 3 hours without resolution of the whole problem. Meanwhile, the techs alterations to my laptop were faster than I could follow. He was communicative, but between his accent & the speed of the changes, I was not thoroughly following every step. The Netgear device was linked on 2g, but would not link to the faster 5g channel. The tech decided he would need to have his supervisor call me the next day. We scheduled a call time. He had convinced me I needed their firewall & security program. The next step was to charge my PayPal account. My options were $149 or $299. Thanks to my bank & PayPal, despite several attempts the payment did not complete! It is now the next day, I have researched both Netgear & Softtree & count myself lucky that the process did not complete! Buyer Beware, Netgear has aligned itself with a company that will cost you dearly for the "solution" & problem resolution!
+32 people found this helpful
+Helpful
+1 comment Report abuse
+	Brian
+1.0 out of 5 stars Buyer Beware ! Support Scam that Netgear MUST know about is going on with this device
+Reviewed in the United States on June 20, 2019
+Verified Purchase
+If this review does not convince you to avoid NETGEAR read the additional reviews from other customers I have listed at the bottom. If after reading those you purchase a NETGEAR product you are getting what you deserve. I thought NETGEAR would be a solid choice for an extender and was totally unprepared for the very BIG SCAM attempt that transpired. My intention is not only to give 1 star for this device, but to warn people away from NETGEAR at all costs. Just as context I am tech literate enough for a simple device setup after 30 years as a Database Specialist. In a nutshell setup requires that the extender become 'aware' of your router so that it can repeat/extend your signal. Page 9 of the booklet THAT COMES IN THE BOX with the device is titled 'Connect with Web Browser Setup.' Please see the attached photo. Step 3 directs you to a page for 'New Extender Setup Screen' and tells you to click 'New Extender Setup' button .. But instead you are on what looks to be a NETGEAR Page, but no new extender setup info AND almost immediately an unsolicited Support chat opens .. I did not realize it, but it was a phishing robot masquerading as a human and soliciting info which led to a tech calling me .. at this point I am surprised and amused at how bad this support is, but not suspicious .. until shady tech calls (using name that his parents are not possibly aware of) and will not answer my question about why the instructions do not match the page and why do i need an expert for something this simple (he essentially tried to convince me that customers are stupid) .. then .. without the explicit warning and permission that any legit support tech for a legit tech company will provide and make sure the customer understands and agrees to.. goes into full SCAM mode and tries to trick me into giving him access to my computer .. WTF ? I confronted him and he actually got tough and tried to defend his actions .. Again I am at the very least tech literate, but was not on my guard due to the origin of this transaction being the NETGEAR QUICK START BOOKLET !!!! Seriously I am sure lots of people get hooked on this ... see The Sept 2018 1 star review telling the same story (with a comment for another customer who advised same thing and was scammed for $90). NETGEAR is not a legit tech company as there is no way they do not know this is going on. Amazon as well bears some responsibility. Do yourself a favor and bypass NETGEAR products. BTW I tried a number of ways to get in contact with someone at NETGEAR for their side of the story before posting this review, but it was impossible and I went in circles for over an hour. If you are still thinking of buying NETGEAR then read 6-14-19 review by Chu, 9-23-18 by Miller, 6-11-19 Monteith, 2-21-19 Hughes or 10-5-18 with 'Beware' in title .. One says that SCAM tech support actually left them with a non-functional PC.
+review image
+23 people found this helpful
+Helpful
+1 comment Report abuse
+	Billy Lo
+1.0 out of 5 stars You need to pay to talk to tech support after 90 days from purchase, even when the product is still under warranty
+Reviewed in the United States on May 15, 2018
+Verified Purchase
+I have been using this extender for 8 months now. It has been working fine until today: I was trying to update the firmware, but for some reason the connection between my computer and the extender was disrupted in the middle (always a big no-no). Afterwards, the green power light keeps blinking. I read online that this is a sign of firmware corruption. A few more searches revealed a solution from Netgear. I followed every step of the instructions, but that did not work for me (after manually setting the IP address for the extender, I was able to ping the IP address from command prompt, but nevertheless I was unable to reset the firmware using the tool provided). Frustrated, I was trying to contact Netgear to to seek help. I bought the extended in Sept, 2017 and now it's May 2018, so I'm still under warranty (as confirmed on my Netgear account). However, to my surprise, they provide free phone support only within the first 90 days of purchase. In order to talk with someone, I need to pay $49.99 for their "Premium Technical Support". This is bullshit. I'm not going to pay to talk to tech support for an item still under warranty, and much less to pay $49.99 for an extender I purchased for $39.99.
+
+That's it - I will never use Netgear ever again.
+31 people found this helpful
+Helpful
+2 comments Report abuse
+	DeeMee
+1.0 out of 5 stars Slow on 2.4 ghz, and mostly doesn't do 5 ghz.
+Reviewed in the United States on July 13, 2019
+Verified Purchase
+I used an old Netgear EX2700 which was 2.4 ghz only. Worked great, easy to use, fast speed, great range. Simple as can be. So naturally I turned to this unit with 2.4 and 5 ghz.
+
+This one sets up more or less the same, except unlike the older unit you now have to sign up for an account and jump thru hoops that are unnecessary, a bother if you reset the unit, and only of benefit to Netgear, not you the customer of Netgear.
+
+So next problem was side by side with the old unit my 2.4 ghz band speeds were only 40% as good as the old one. Even in the same room as the router where signal strength was a non-issue. Maybe I just had a bad one, but I suspect the processor inside is over-burdened to handle two bands rather than one.
+
+The 5 ghz band was faster, when it worked, which it mostly didn't. It was simply intermittent. Again even in the same room as the router so no signal strength problems. I reset and started over a few times. Hurray, the sign in with Netgear hoop jumping is so convenient ....not. But that wasn't it. It would work a few minutes. Not work for long stretches, and then sometimes work again. Mostly 80% or 90% of the time the 5 ghz band just wasn't working.
+
+So I returned it. Try something else. I don't have a suggestion for a good dual band extender. The beauty of the old one was small size, simple and good speed. Plug it in a wall socket, set it up, and have great extender results. You hardly noticed it was even there. In the mean time I'm using some old Ubiquiti Nanostations which are way overkill and not un-noticeable to plug into a hallway socket halfway across my house.
+
